@@ -20,7 +20,7 @@ CSS (for styling)
 JavaScript (for logic and interaction)
 
 # Setup Instructions
-Clone the repository: git clone https://github.com/Darshan-Patel1611/binary-calculator.git
+Clone the repository: git clone https://github.com/Darshan-Patel1611/BinaryCalculator.git
 Open index.html in your web browser.
 
 # Additional Notes
